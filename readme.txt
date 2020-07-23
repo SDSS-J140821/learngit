@@ -5,4 +5,4 @@ Git changes(fourth)
 git changes 55555
 git changes 66666
 change in dev branch
-Creating a new breanch is quick & simple
+Creating a new branch is quick and simple
