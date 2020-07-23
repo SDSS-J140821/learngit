@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git changes(fourth)
 git changes 55555
 git changes 66666
+change in dev branch
