@@ -9,4 +9,4 @@ Creating a new branch is quick and simple
 bbbbbbbbbbbbbbbbbbbbbbbb
 aaaaaaaaaaaaaaaaaaaaaaaa
 remote change
-conflict 2
+no conflict at all
