@@ -10,3 +10,4 @@ bbbbbbbbbbbbbbbbbbbbbbbb
 aaaaaaaaaaaaaaaaaaaaaaaa
 remote change
 change ageain
+conflict
