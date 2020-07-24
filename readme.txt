@@ -7,3 +7,4 @@ git changes 66666
 change in dev branch
 Creating a new branch is quick and simple
 no conflict version for master branch
+new change
